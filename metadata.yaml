@@ -1,5 +1,8 @@
 _repo: Leonie-the-Typewriter-A-Romance-of-Actual-Life_54177
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54177-h/images/coverlarge.jpg
 creator:
   author:
     agent_name: Gilman, Wenona
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45020'
     url: http://www.gutenberg.org/2009/agents/45020
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54177#Leonie-the-Typewriter-A-Romance-of-Actual-Life
 gutenberg_issued: '2017-02-17'
 gutenberg_type: Text
 identifiers:
